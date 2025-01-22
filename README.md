@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joy Pan, a current freshman at MIT
-- 👀 I’m interested in studying either computer science or engineering
+- 👀 I’m interested in studying mechanical engineering (or in MIT terms, course 2A-6)
 - 🌱 I’m currently learning Python, web development (HTML, CSS, Javascript), and becoming accustomed to Git/Github. I have general familiarity with C++, Java, and C#.
 - 🤖 FRC Robotics (Team 7127)
 
